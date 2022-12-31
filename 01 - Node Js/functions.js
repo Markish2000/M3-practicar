@@ -1,0 +1,3 @@
+const sumar = () => {};
+
+const imprimirNombre = () => {};
