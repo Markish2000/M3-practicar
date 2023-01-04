@@ -23,7 +23,7 @@ server.use('/names', async (req, res) => {
 // TODO: Params = Por link. Ejemplo: http://localhost:3001/1
 // server.get('/:id', (req, res) => {
 // const { id } = req.params;
-// const char
+// const cha
 // });
 server.listen(3001);
 
